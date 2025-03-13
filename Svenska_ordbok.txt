@@ -27,7 +27,7 @@ trotsig: defiant, obstinate
 begrunda: contemplate, consider; överväga, betrakta
 förbindlig: affable, courteous, obliging
 snirklig: squiggly
-outgrundlig: inscrutable; ofattbar
+outgrundlig: inscrutable, unfathomable; ofattbar, gåtfull
 förnärma: offend; förolämpa
 (en) förtret: annoyance
 (en) dygd/dygdig: virtue/virtuous
@@ -57,14 +57,15 @@ uppståndelse: commotion, stir
 förståndig: sensible
 framvällande: emergent
 gnissla: squeak
-anhålla: arrest, apprehend
+anhålla: arrest, apprehend/formally request
 förädla: refine
 kluven: split, forked
-gira: yaw, swerve
+gira: yaw, swerve, veer
 förkunna: proclaim, declare
 (en) reträtt: retreat; återtåg
 (en) rekyl: recoil
 begynnelse: initial
+gynna: favour, promote
 annalkande: approaching
 utskällning: scolding, telling of
 runka: jerk off
@@ -90,6 +91,7 @@ förnimma: perceive (with the senses); uppfatta
 salig: blessed; välsignad
 mållös: tongue-tied, speechless
 beryktad: infamous
+rykta: groom
 bräcklighet: fragility
 sluddra: babble
 (ett) kval: pangs, anguish, torment; lidande
@@ -105,7 +107,6 @@ dyrka: worship, adore, idolise
 livmoder: uterus
 avbild: image, likeness
 briljera: shine, show-off; glänsa, pråla
-förförelse: seduction
 lågmält: low-key, discreet
 förakta: despise, disdain, scorn, contempt
 infallsvinkel: angle of incidence; aspect
@@ -128,7 +129,7 @@ gläfsa: yelp
 avsäga sig: renounce
 vidunderlig: wonderful
 långlint: resentful
-fåfäng: vain; futile
+fåfäng: vain/futile; kokett/fruktlös
 småaktig: captious, quibbling
 ovårdad: unkempt
 (en) samverkan: cooperation
@@ -139,8 +140,10 @@ gro: germinate, sprout
 lyhörd: responsive, keen
 vanställa: disfigure
 förräderi: treason
-(ett) svek: bedrägeri, förräderi; trolöshet
+(ett) svek: betrayal, treachery, deceit; bedrägeri, förräderi, trolöshet
+bedrägeri: fraud, deception
 kulspruta: machine gun
+spruta: syringe
 stämband: vocal cord
 härma: mimic, imitate
 avdunsta: vaporise, evaporate; förånga
@@ -199,24 +202,27 @@ mödosam: arduous; tröttsam
 skonsam: gentle
 (en) störtskur: torrential rain
 nederbörd: rainfall; regn
-fastslå: establish; ställa upp
+fastslå: state, establish; ställa upp
 erhålla: obtain; få ut, skaffa
 hyfsad: decent; ganska bra
 begriplig: understandable
 tänkbar: conceivable
 hejdlös: rampant, wild; obegränsad
 flink: nimble, quick
-rådande: current; nuvarande, pågående, föreliggande, löpande
+rådande: current, prevailing, ruling; nuvarande, pågående, föreliggande, löpande
+föreligga: exist; finnas
+föreliggande: present
 godtycklig: arbitrary, random
 omvänt: conversely, vice versa; å andra sidan
 utlösa: trigger
 förslå: suffice; räcka till, vara till­räcklig
 speja: spy; spana
+spana: scout, spy
 frånstötande: repulsive, repugnant
 stötande: offensive
 rymma: hold, contain, accommodate; innehålla
 medurs: clockwise
-moturs: anti-clockwise
+moturs: anti-clockwise; motsols
 återuppta: resume
 för den delen: for that matter
 antyda: imply, suggest
@@ -251,7 +257,7 @@ plump: indecent, rude, rough; ohyfsad, grov
 (en) genans: embarrassment; att vara generad, förlägenhet
 skyla: cover, veil; gömma, dölja, hölja
 hölja: cloak, shroud, cover; övertäcka, skyla, dölja
-obduction: autopsy
+obduktion: autopsy
 påkostad: extravagant
 (ett) anletsdrag: facial features
 stympa: mutilate, main/truncate; lemlästa, van­ställa genom av­skärning/förkorta
@@ -264,6 +270,7 @@ avgrund: abyss, chasm
 måttlig: moderate, mild
 (en) fadäs: gaff, blunder; (en) tabbe
 framkomma: emerge
+skåda: behold, see; se, betrakta
 åskådliggöra: illustrate, visualise
 åskådare: spectator, audience
 gles: sparse, thin, scattered
@@ -271,7 +278,8 @@ fresta: tempt; locka
 (ett) tillvägagångssätt: approach
 infinna sig: show up, turn up, appear (to a meeting)
 hållning: posture, demeanor
-befängd: tokig, löjlig
+befängd: absurd, ridiculous; tokig, löjlig
+löjlig: ridiculous, ludicrous; löje­väckande
 gola(re): snitch
 treva: fumble, grabble; famla
 tinning: temple
@@ -305,6 +313,8 @@ läppja: sip; smutta
 smutta på: sip
 entonig: monotonous
 återställa: restore, reset
+återupprätta: restore, reestablish
+upprätta: establish, set up; skapa
 undertrycka: suppress, subdue; dölja, underkuva
 underkuva: subjugate
 skir: transparent, clear/brittle, fragile; genom­skinlig; spröd, öm­tålig
@@ -326,7 +336,7 @@ munter: cheerful, merry
 sagoaktig: fairytalelike
 grumlig: cloudy, murky
 (en) heder: honour
-uppriktig: sincere; ärlig, rak
+uppriktig: sincere, frank; ärlig, rak
 tramsig: silly, not serious; fånig, larvig
 larvig: silly; fånig, fjantig
 uppfordra: encourange; uppmuntra
@@ -351,15 +361,17 @@ komma över: come across
 av en slump: by accident
 snubbla på: stumble upon
 avvika: deviate, diverge
-förlegad: obsolete, antiquated; föråldrad
+förlegad: outdated, obsolete, antiquated; föråldrad
 hisna: turn giddy/dizzy; svindla, bli vimmelkantig
 vimmelkantig: giddy, dizzy
 (en) beska (beskhet): bitterness
-(ett) anslag: allocation, grant, allowance
+(ett) anslag: allocation, grant, allowance/announcement, notice/intrigue, conspiracy
+sammansvärjning: conspiracy
 försmädlig: annoying; sneering, provocative; retsam, irriterande
 frusta: snort; fnysa
 anspänning: tension; ansträngning
-utan omsvep: direct, without evasions
+spanning: voltage/tension/excitement
+utan omsvep: direct, without evasions; rättfram, utan undanflykter
 undanflykt: evasion
 flummig: high (on drugs), intellectually messy
 pampig: grand, pompous; ståtlig
@@ -394,6 +406,7 @@ fiffig: clever, ingenious, smart; påhittig, klipsk
 ragla: stagger: vackla, vingla
 avfärda: dismiss
 vämjelse: loathing; äckel, avsky
+avsky: loathe, detest
 skrot: scrap
 skrotupplag: scrap yard
 disträ: distraught, absent-minded; tankspridd
@@ -413,7 +426,8 @@ näpen: pretty, cute; söt, nätt
 nedstänkt: drenched
 berömma: praise, commend; prisa
 utvändig: external
-förmana: caution, warn; uppmana
+förmana: caution, warn
+uppmana: invite, request
 anstalt: institution
 i drift: in operation
 (ett) galler: grid, grill, grating, lattice
@@ -428,6 +442,7 @@ invecklad: intricate, convoluted, complicated; komplicerad
 obönhörlig: inexorable, inevitable/relentless; ofrånkomlig/obeveklig
 ofrånkomlig: inevitable; oundviklig
 vresig: grumpy; grinig
+grinig: grumpy, petulant
 förefalla: appear, seem, look; tyckas, verka
 fastna för: get hooked
 hägring: mirage, illusion; synvilla
@@ -436,7 +451,9 @@ motsägelsefull: contradictory
 vekna: weaken, soften; mjukna
 somliga: some, certain; vissa, några
 tämligen: rather, fairly, pretty, quite; ganska, någorlunda
+någorlunda: fairly, somewhat
 putslustig: funny, jokey; smårolig, skojig
+lustig: funny, amusing; rolig
 (en) bagatell: trifle, triviality, small matter; små­sak, strunt­sak, o­betydlighet
 bagatellartad: trivial, petty
 ens vana trogen: true to one's habit
@@ -452,7 +469,7 @@ erfordelig: needed, necessary; behövlig, nödvändig
 nogräknad: demanding; fordrande, krävande
 oförglömlig: unforgettable
 reslig: tall, towering; hög­rest, hög­växt
-förströ: entertain, scatter, amuse, distract, divert; roa, underhålla, distrahera
+förströ: entertain, amuse/distract, divert; roa, underhålla/distrahera
 infoga: insert, put in; sätta in
 sannerligen: indeed, certainly; förvisso, verkligen
 förvisso: certainly
@@ -514,6 +531,7 @@ varsko: (fore)warn, notify; förvarna/underrätta
 lövverk: foliage
 föga: little, hardly, not exactly
 inskränka: restrict, limit; begränsa
+kränka: violate, infringe; bryta mot
 räckvidd: scope, range, reach; omfattning
 överskrida: exceed, overstep; överstiga
 insyltad: involved; inblandad
@@ -542,6 +560,7 @@ bifall: applause/consent, approval, endorsement; samtycke
 mörbulta: bruise
 således: thus, therefore; därför
 begeistrad: enthusiastic, excited; hänförd, förtjust
+förtjust: delighted 
 hänförd: enthusiastic; förtjust
 beståndsdel: ingredient
 ur­skilja: distinguish, discern, perceive; förnimma, uppfatta
@@ -558,6 +577,7 @@ kärv: harsh, stringent; sträv
 ruva: brood
 på picka­lurven: drunk; berusad
 så när som på: apart from, except for, save
+utöver: apart from, besides
 nödbedd: difficult to convince
 bemöda sig: endeavour, make an effort; anstränga sig
 inte så pjåkig: not bad, quite god
@@ -584,8 +604,10 @@ utpressning: extortion
 (en) stiltje: lull, calm; vindstilla, bleke
 gehör: musical ear
 framträda: appear, emerge; uppträda
+uppträda: appear/behave; framträda/bete sig
 skiljedom: arbitration
 anmärka på: criticise, fault; klandra, kritisera
+anmärkningsvärd: remarkable, noteworthy
 pil: arrow
 pilspets: arrowhead
 sjuda: simmer
@@ -626,6 +648,7 @@ inrymma: accommodate; hysa
 hysa: house, harbour
 återhämtning: recovery
 otymplig: awkward, clumsy; oformlig, klumpig
+klumpig: clumsy
 skallgång: search party
 visserligen: certainly, admittedly; förvisso
 tillvarata: take care of, take charge of
@@ -670,12 +693,14 @@ sävlig: sloppy, slow
 förmånstagare: beneficiary
 anspråkslös: unassuming, modest; blygsam
 foga: add, join
+foga samman: 
 gå grundligt tillväga: proceed thoroughly
 avråda: dissuade
 överlämna: submit, hand over/surrender
 vurm: craze
 loj: indolent, sluggish; trög, håglös
 trög: sluggish, dull
+tröghet: inertia
 uppspelt: exhilarated; munter
 satsa på: bet on, risk
 tillskriva: attribute, acknowledge; tillerkänna
@@ -696,6 +721,7 @@ vina: whiz, hiss, swish; susa
 (ett) läger: camp, compound
 likhet: resemblance, similarity
 förfärad: horrified
+(en) förfäran: horror, dismay
 avvara: spare
 bli varse ngt: notice, become aware of
 (en) trave: pile, stack; stapel
@@ -708,6 +734,7 @@ villospår: red herring
 aptera: adapt, fit; anpassa
 tiga: shut up, keep quiet
 avskum: scum
+skum: foam/obscure, dim/doubtful, suspicious; dunkel/tvivelaktig, miss­tänkt
 (en) oroshärd: trouble spot, hotspot for trouble
 bägge: both; båda
 (ett) reglage: controls; reglerings­anordning
@@ -731,6 +758,7 @@ besitta: possess, own, have
 spröd: brittle
 (ett) yttre: exterior, look; utseende
 mån: eager/considerate/degree, extent; angelägen/omtänksam/grad, utsträckning
+omtänksam: thoughtful, considerate
 inälvor: entrails, guts; tarmar
 ertappa: catch someone in the act/red-handed
 kana: slide, glide
@@ -777,6 +805,7 @@ innan man vet ordet av: before you know it
 vara illa ute: be in trouble
 tillfoga: add/inflict, cause; tillägga/vålla
 avsevärd: considerable; ansenlig, betydande
+sevärdhet: tourist attraction, sight 
 åtskillig: several, many, quite a lot; en hel del, olika, flertal
 förglömlig: forgettable
 misslynt: cranky, bad-tempered, irritable; missnöjd, sur
@@ -784,7 +813,7 @@ luddig: fuzzy, fluffy
 taggig: prickly, thorny, harsh; kärv, o­vänlig
 (ett) smil: smile, smirk, grin; leende
 rör på påkarna: get moving; sätt fart
-bedrift: feat, achievement
+bedrift: feat, achievement, accomplishment
 endräkt: unity, unanimity, harmony; enighet, sämja
 betäcking: cover, shelter
 utföra: perform, execute
@@ -798,11 +827,13 @@ hängig: limp
 (en) lort: dirt, filth, muck; smuts
 dynga: droppings, dung; rubbish
 utmärglad: emaciated, lank, wasted; mager, av­tärd
+mager: lean, skinny; tanig
 knapra: nibble
 möglig: moldy
 arvtagare: heir, inheritor
 överfall: assult; plötslig attack
 anfall: angrepp; attack
+angripa: attack; an­falla, attackera
 vanka av och an: wander back and forth
 intet ont anande: unsuspecting; aningslös
 inverka: influence, have an effect; styra, förändra
@@ -812,7 +843,10 @@ meningsskiljaktighet: dissent, disagreement
 skiljaktig: different, divergent; olik, avvikande
 försegla: seal
 repa: scratch, scrape; rispa, skåra
-skava: skrapa, gnida; chafe, scrape
+rispa: scratch, cut
+skåra: cut, groove, incision
+skråma: scratch, cut
+skava: chafe, scrape; skrapa, gnida
 gnida: rub, scrape
 skryta: boast, brag
 modfälld: demoralised, discouraged, disheartened; dyster, nedslagen
@@ -820,7 +854,9 @@ förvärva: acquire, obtain
 vildsint: wild, savage
 knepig: tricky
 (ett) krångel: hassle, trouble
-stundade: forthcoming, imminent; förestående
+stundande: forthcoming, imminent; förestående
+förestående: impending, approaching; kommande
+förestå: be head of, be in charge of
 underkasta: submit, subject; surrender to
 utmanare: challenger
 bedrövlig: deplorable
@@ -859,6 +895,7 @@ evinnerlig: eternal, everlasting; evig
 usel: wretched, miserable, pitiful
 uteslutande: exlusive(ly)
 anseende: reputation; rykte
+(ett) rykte: rumour, reputation
 bistånd: assistance, aid
 motgång: adversity
 motsträvig: ovillig
@@ -882,9 +919,10 @@ lättja: laziness
 snurra: spin, twirl, turn
 genomskåda: see through, find out; avslöja
 sällsam: peculiar, odd, strange; besynnerlig, egendomlig
-slug: cunning, shrewd/clever, astute; listig/klok, begåvad
+besynnerlig: peculiar, odd; konstig, märk­värdig
 slå slint: backfire, misfire; misslyckas
 bära sig åt: behave; bete sig, uppträda, uppföra sig
+uppföra sig: behave, conduct oneself; bete sig på visst sätt
 förtälja: tell; berätta
 haja till: shake, become startled; rycka till
 rycka: twitch
@@ -904,6 +942,7 @@ iscensätta: stage
 gärning: deed, action
 brisera: burst, explode
 uppstå: arise, emerge; bli till
+återuppstå: resurrect, reemerge
 resterande: remaining, residual
 muta: bribe
 motprestation: quid pro quo, service in return, counter performance
@@ -916,7 +955,7 @@ mestadels: mostly
 förlita sig (på): rely on
 urskillningslös: indiscriminate
 godtycklig: arbitrary, random
-sårbar för: vulnerable
+sårbar för: vulnerable to
 tillskansa sig: usurp, obtain by force
 få till: achieve, accomplish; lyckas åstadkomma
 åstadkomma: achieve, bring about, cause: uppnå, förverkliga
@@ -935,6 +974,7 @@ stifta: found, establish; grunda, skapa, inrätta
 inrätta: set up, create
 omgång: round, set
 alltjämt: still; fortfarande
+jämt: always, every time, constantly; alltid, ständigt
 i det avseendet: in the sense that
 beständig: resistant, steady; bestående, varaktig
 bestående: permanent, lasting
@@ -975,6 +1015,7 @@ lägga om: rearrange, reshuffle
 åtgång: demand and sales, consumption; förbrukning
 (en) legoknekt: mercenary
 förjaktligen: consequently; alltså, således
+alltså: in other words
 förgäves: in vain
 beslagta: seize, confiscate
 (en) föresats: intention, goal, purpose; avsikt, mål
@@ -997,6 +1038,7 @@ bli av: occur, happen; inträffa, hamna
 övertag: lead, advantage; försprång
 försprång: lead, advantage; övertag
 utsago: statement; uttalande, påstående
+uttalande: statement
 omättlig: insatiable
 upprinnelse: origin, source; ursprung, härkomst, upphov, källa, orsak
 upphov: origin, cause, source, root
@@ -1011,12 +1053,12 @@ nöta: wear out; slita
 nött: worn, shabby; sliten
 utnötning: exhaustion, wearing out; förslitning
 slitning: abrasion, friction
+(ett) slit: toil
 Förintelsen: the Holocaust
-synnerligen: särskilt, ytterst
+synnerligen: particularly; särskilt, ytterst
 ödelägga: devastate; härja, skövla
 inleda: initiate, start with
 förorda: advocate, counsel, recommend; förespråka
-underrättelse: intelligence
 (ett) anspråk: claim, pretence, interest
 återhållande: restraint
 förverka: forfeit; förlora, gå miste om
@@ -1031,7 +1073,7 @@ lägga ned: write off, dismantle; avskriva, avveckla
 avveckla: dismantle; lägga ner
 tillföra: add, bring, supply; förse med ngt
 tillkortakommande: shortcoming, deficiency; misslyckande
-utvisa: expel, deport, send off
+utvisa: expel, deport, send off; förvisa
 ådagalägga: show, display, exhibit
 blid: gentle, mild, soft, placid; mild, mjuk, lätt, lugn
 svårmod: melancholy; tungsinthet
@@ -1045,7 +1087,7 @@ framhärda: persevere, persist; envisas, vara ihärdig, hålla ut
 avspänd: relaxed: avslappnad
 hätsk: spiteful
 försäga sig: say too much
-på måfå: at random; haphazardly
+på måfå: at random, haphazardly
 bedåra: fascinate, infatuate; hänföra, förtjusa
 olycksbådande: sinister. ominous
 påbrå: stock, strain, descent, ancestry; arvsanslag, ursprung
@@ -1070,6 +1112,7 @@ rederi: shipping company
 redovisning: accounting
 nämnd: board, committee, jury
 stävja: curb, stop, hold back; hejda
+hejda: stop, hold back; hindra, stoppa
 förebygga: prevent
 sammanfalla: coincide
 främja: promote, encourage
@@ -1095,10 +1138,14 @@ utsökt: exquisite, fine; läcker
 förleda: entice, mislead, entrap, delude
 ryktbar: famous, renowned
 näsvis: impertinent, cheeky; fräck, uppnosig
+fräck: cheeky, brazen, insolent, impudent
 vidta: implement, realise: genomföra
 omhölja: envelop
 belägga: prove/occupy/impose upon/cover,coat; bevisa/ta upp plats i/belasta/täcka
 i sin linda: in the bud, in its tracks
+linda: wind, wrap, twine; vira
+vira: wind, twine; linda, veckla
+veckla: unfold, wind, wrap; vira, linda
 brännmärka: brand, burn
 tiga ihjäl ngt: silence sth
 återge: reproduce, render, give back
@@ -1127,6 +1174,7 @@ utradera: wipe out; förinta
 till syvende och sist: at the end of the day
 halvledare: semiconductor
 framgent: henceforth, in or for the future, forward
+överskådlig: comprehensible, clear; överblickbar
 överskådlig framtid: foreseeable future
 fjärd: bay; vik
 remsa: strip, tape, ribbon
@@ -1208,6 +1256,7 @@ struntprat: nonsense
 dvala: dormancy, hibernation
 besegra: defeat, beat
 bedröva: grieve, sadden: göra ledsen, förtvivla
+förtvivlad: desperate; desperate, hopplös
 (en) häpnad: amazement
 (en) örfil: cheek slap
 vädja: appeal, beg
@@ -1219,8 +1268,10 @@ underlätta: facilitate, ease
 klentrogen: sceptical
 snor: snot
 oklanderlig: impeccable, immaculate, faultless; felfri
-stökig: messy, untidy
+stökig: messy, untidy/troublesome, loud; o­städad; besvärlig, bråkig
 hasa: slither, shuffle; glida, släpa
+släpa: drag, tow
+fästa: attach, fasten; sätta fast
 hackig: choppy, jagged, stuttering; ojämn
 sammanställning: compilation
 besatt av: obsessed with
@@ -1273,8 +1324,12 @@ hårdhänt: harsh, rough; o­känslig, hänsyns­lös
 förlag: publisher
 outsinlig: endless, unfailing
 umbäranden: hardship
+umbära: do without; undvara, försaka
+försaka: forego, deprive
 ragla: stagger, lurch; vackla, vingla
 verkställa: execute; utföra
+verkställande utskott: executive committee
+utskott: committee/outgrowth; underkommitté
 duglig: competent, able
 rysa: shudder, shiver
 utgöra: constitude, compose of; bestå av
@@ -1284,3 +1339,409 @@ varsam: gentle, cautious; försiktig
 kväva: choke, stifle, smother
 prydlig: neat, tidy
 såvida: unless
+omfång: range, scope, extent; vidd/storlek, om­fattning
+framstå: appear; te sig, visa sig
+motsägande: contradictory, conflicting; motstridig
+motstridig: conflicting
+närgången: close, intrusive; på­trängande, på­flugen
+elakartad: malignant; farlig
+svulst: tumour; tumör
+(en) åsyn: sight, view
+skrocka: chuckle
+tjuta: howl, wail
+uppfart: driveway
+(ett) spratt: prank, trick, hoax; streck, upp­tåg
+ruska: shake; skaka
+fördriva: dispel, drive away; driva bort
+genomtränga: penetrate, pierce
+flämta: gasp, pant
+häpnadsväkande: astonishing
+förvrida: distort, warp
+lättnad: relief
+utstyrsel: outfit; dräkt
+(en) ratt: steering wheel
+(en) skock: flock, herd, crowd
+rentav: even; till och med
+uppväga: offset, compensate for; kompensera
+förknippa: associate; associera, förbinda
+uppenbarelse: revelation
+faslig: dreadful, terrible; förskräcklig
+förstulen: furtive
+förnuftig: sensible, reasonable
+storsint: magnanimous; generös, ädel­modig
+ädelmod: magnanimity
+angenäm: pleasant; behaglig
+dallra: tremble; darra, vibrera, bäva, skälva
+fillflykt: refuge, shelter
+varav: of which
+genväg: shortcut
+(ett) staket: fence, railing
+bemöta: meet, receive, treat; ta emot, svara på
+gedigen: genuine, solid, pure
+pladdra: prattle, babble
+sålla: sift, screen, sieve
+(ett) häftstift: pin, thumbtack
+medgörlig: tractable, compliant, accommodating, docile; tillmötes­gående, foglig
+tillmötesgående: accommodating
+oförskämd: rude, insolent; fräck, o­försynt
+uppställning: line-up, formation
+omvänd: inverse, reverse
+framhäva: highlight, feature; understryka, betona
+ypperlig: excellent, outstanding, extraordinary; utomordentlig
+avsöka: scan
+(en) manet: jellyfish
+för övrigt: by the way, otherwise; i övrigt, förresten
+däremot: however, on the contrary
+därefter: then, thereafter, afterwards; sedan, där­på
+därpå: thereon, then; sedan, där­efter
+dessutom: moreover, furthermore; därutöver
+därutöver: moreover, beyond; utöver detta
+utröna: find out; ta reda på
+äska: demand; begära, anhålla om
+grannlaga: considerate, delicate; takt­full, fin­känslig
+än mindre: let alone
+detta till trots: despite this
+gemen: common/mean, petty; vanlig, allmän/småsint
+genomslag: impact
+därtill: in addition
+förpliktiga: oblige, obligate, bind; tvinga
+stöta sig med: clash with, become enemies with
+stöpa om: reshape, transform; omskapa
+på sikt: in the long run
+med tanke på: given that, considering
+handlingskraft: power of action, energy, drive
+(ett) dråp: manslaughter
+förnödenheter: necessities; nödvändighetsvara
+förtur: priority
+förflyta: elapse, pass
+samvaro: togetherness
+(en) flit: diligence
+övervinna: overcome, conquer, surmount; besegra
+förkastlig: objectionable, to be condemned, unjustifiable; klander­värd
+förkasta: reject, refuse; avslå, avvisa
+avslå: reject, refuse; avvisa
+anbud: tender, offer, bid
+sunt förnuft: common sense
+utrangera: discard, scrap; gallra ut, kassera
+gallra: thin out, cull; avlägsna
+avlägsna: remove, put away; skaffa bort
+befogenhet: authority, capacity, competence; rättighet, behörighet
+(en) tillit: trust
+samstämmighet: consensus, unanimity; enighet
+samråd: consultation
+förankra: anchor, establish firmly
+ömsesidig: mutual
+på dekis: dilapidated; förfallen
+rycka bort: snatch away, carry off
+rycka in: step in/join up
+avmatta: tire, weaken
+uppfostringsanstalt: reformatory, institution for juveniles
+uppdämd: pent-up; länge tillbaka­hållen
+utse: appoint, choose
+nödga: need, force; halvt tvinga
+begivenhet: big and rare event/addiction
+görlig: feasible, practicable
+blidka: appease, placate
+avhängig: dependent; beroende
+eftergift: remission, concession, compromise
+sluta upp: gather/give support; samlas/ge sitt stöd
+brokig: motley
+greppa: grab, handle/get, understand; ta tag i, hantera/fatta, förstå
+hävstång: lever
+vådabekämpning: friendly fire
+utropa: proclaim, call out
+fjärma: alienate, remove, estrange; föra bort, skilja, av­lägsna
+fnittra: giggle
+anamma: embrace, accept
+hyfsad: decent
+bullrig: noisy
+föregå av: precede by
+stel: stiff, rigid
+tafatt: awkward, clumsy; fumlig, klumpig
+motvikt: counterbalance, counterweight
+anförtro: confide
+glo: stare
+sno: twist; vrida
+utantill: by heart
+påfågel: peacock
+förtal: slander
+vettig: sensible
+skylla på: blame for
+anklaga för: accuse of
+åtala för: charge with
+åtala: prosecute
+omintetgöra: thwart
+uppbringa: produce/hijack, capture; skaffa fram/kapa
+kapa: hijack, capture
+näppeligen: hardly; knappast
+påfresta: strain; anstränga
+hänga ihop: hang together, connect, interlink; hänga samman
+störa ut: jam
+graverande: troublesome, aggravating; besvärande, försvårande
+vidkommande: concerned, relevant
+för mitt vidkommande: as far as I'm concerned; för min del, vad mig beträffar
+svältkur: starvation diet
+utflykt: outing, excutsion
+krånglig: complicated, awkward
+hämnas på: avenge
+enslig: desolate, remote; ödslig
+hednisk: pagan
+förvalta: administer, manage
+svetsa: weld
+skänka: give, donate
+tilltänkt: intended; planerad
+rasande: furious; ursinnig
+ursinnig: furious, enraged
+(en) bordell: brothel
+kärra: cart
+(ett) svärd: sword
+(en) skorsten: chimney
+(en) bål: torso
+(ett) bål: bonfire
+välgörenhet: charity
+trakassera: harass
+mobba: bully
+(en) säl: seal
+roa: entertain, amuse; under­hålla, förströ
+ligga till: have a certain position, be placed
+bemyndigande: authorisation, authority; tillstånd
+knapphänding: scant; kortfattad, fåordig
+skalbar: scalable
+erforderlig: necessary; behövlig, nödvändig
+luffare: bum, tramp
+koka soppa på en spik: make bricks without straw, accomplish something out of nothing
+huruvida: whether; om
+ligga ute med pengar: be out of pocket
+togång: tone
+på/å någons vägnar: on behalf of; för någons räkning
+mordbrand: arson
+i samma vända: at the same time
+ombud: agent, proxy
+förehavanden: undertakings, actions; görande, agerande
+oundgänglig: indispensable, essential; oumbärlig, o­frånkomlig
+eftertrakta: covet; längta efter
+rättmätig: legitimate
+få sin beskärda del: get one's fair share
+motstycke: counterpart; motsvarighet
+skona från: spare from; ge nåd
+bristfällig: inadequate, insufficient; otillräcklig
+illasinnad: ill-tempered, ill-disposed; elak
+för all del: by all means
+utfästelse: pledge, commitment
+sund: sound, healthy, sane; frisk, hälsosam, klok
+förekomst: presence, existence
+lyda: obey
+feg: coward
+gnälla: whine, moan, complain; jämra sig, klaga
+jämra sig: moan; klaga, gny
+slösaktig: wasteful, lavish
+rattfylleri: drunk driving
+slå vad: bet, wager
+än en gang: once again
+rastlös: restless
+busig: mischievous
+benåda: pardon
+uppsluka: engulf, absorb
+fastna för: get hooked on
+fastna: get caught in, stick
+ordagrann: verbatim, word for word
+enkom: solely; enbart
+sammvetgrann: conscientious; nog­grann, ansvars­full
+knckig: bad, poor; dålig
+döpa till: name, baptise
+utsmyckning: ornamentation, decoration
+(en) smet: batter
+dela ut: distribute
+inuti: inside, within
+oförrätt: injustice; orättvisa
+upphandling: procurement, purchase
+syfte: purpose, aim, idea, intention; av­sikt, ända­mål
+allt som oftast: most of the time, almost always
+stick i stäv: opposite, contrary; tvärtemot
+bemärkelse: sense; betylse
+i någon bemärkelse: in some sense
+bevandrad: versed; insatt, beläst
+ringa: small, little, simple; liten, enkel
+förgänglig: perishable, transient
+inslag: element
+gröpa ur: dig out, hollow out
+komma i mål: reach a goal
+omkomma: perish, die; avlida, dö
+fullborda: complete, finalise
+omgående: immediately; omedelbart, genast
+inteckna: mortgage
+niga: curtsey
+underkänna: fail, flunk
+skala: peel
+på länge: in a long time
+gå vilse: get lost
+enformig: drab, monotonous
+omväxlande: varied, diversified
+överilad: hasty, rash, impulsive; ogenomtänkt
+tärna: bridesmaid, court lady
+tigga: beg
+ljuvlig: lovely, delightful; härlig, förtjusande
+kvittra: tweet, chirp
+(ett) bur: cage
+vistelse: stay, visit
+utsläpp: emission
+flotte: raft
+reta: tease, irritate
+begagnad: used, second-hand
+knep: trick, trickery
+hal: slippery
+begå: commit
+beundra: admire
+fräsig: crisp
+ta till: resort
+hålla reda på: keep track of
+smyga: sneak
+avrätta: execute
+avskeda: fire, dismiss
+myndig: adult, of age
+äga rum: take place
+genomföra: carry on
+rista: carve
+slå igenom stort: to hit it big
+folkomröstning: referendum
+gå på högvarv: go on overdrive
+högkonjunktur: boom
+värdering: evaluation, assessment
+förvandla: turn, transform
+prakt: splendour
+klia: scratch
+fuska: cheat
+förekomma: occur, anticipate, forestall, prevent
+uppfinna: invent
+invadera: invade
+erövra: conquer
+landsbyggden: countryside
+viska: whisper
+råka: happen to
+snatta: pilfer
+(en) kulle: hill
+vishet: wisdom
+valspråk: motto
+älta: dwell on, brood
+budskap: message; meddelande
+påpeka: point out
+foglossning: joint dislocation
+skända: defile, violate/rape; vanära, kränka/våldta
+luckra: loosen
+belägen: located, situated
+hets: incitement
+saklig: objective, factual
+jämställdhet: equality
+snöra av: untie
+skylla ifrån sig: put the blame on someone else
+upprop: attendance control/rollcall/appeal; närvarokontroll
+(en) ränsel: knapsack; ryggsäck
+reda ut: sort out/unravel, disentangle; ordna/undersöka
+ligga efter: lag behind, fall behind
+tvinna: twist, tangle, twine
+uppteckna: record
+underdånig: subservient, submissive; undegiven, hörsam
+hörsam: obedient; lydig
+sladd: cord, cable/skid
+omlopp: circulation, circuit; kretslopp, circulation
+omloppsbana: orbit
+stöta ut: eject
+eftertänksam: prudent
+utreda: investigate; undersöka
+häkta: detain
+förhöra: interrogate
+hederlig: honest, decent
+taskig: shitty, mean; elak, dålig
+samvete: conscience
+samvetsgrann: conscientious; nog­grann, ansvars­full
+däst: saturated, full; övermätt, stinn
+stinn: full, replete, satiated
+(ett) hull: flesh
+sedlig: sexually moral
+försluta: close, seal, lock; tillsluta
+skottkärra: wheelbarrow
+tilltala: address, speak to, appeal to/accuse
+häftig: intense/cool
+fjädring: suspension
+spänst: elasticity; elasticitet
+stämning: mood, atmosphere
+(en) synd: sin
+grym: cruel
+folklig: popular; popular
+krympa: shrink
+ge sig iväg: set off, get going
+ringla: curl, wreathe
+tjata: nag
+skumpa: jolt
+anläggning: facility
+rätt åt ngn: deservedly; välförtjänt
+åtskillnad: distinction
+försjunkenhet: absorption, immersion; nedsänkning
+bröla: animal roar
+skrovlig: rough, rugged; grov, oslipad
+slipa: polish, grind
+smicker: flattery
+(ett) ide: hibernation den
+stamfader: progenitor, ancestor
+vifta: wave, whisk
+spola: flush, rinse; skölja
+vissla: whistle
+päls: fur
+(en) örn: eagle
+lufsa: shamble
+avskaffa: abolish; göra slut på, upphäva
+förorening: pollution
+pank: broke, skint
+fästing: tick
+geting: wasp
+stöta på: bump into, encounter
+snuvig: to have a runny nose
+lunka: trot, jog, plod; trava
+trava: trot
+genombrott: breakthrough
+flintskallig: bald
+kåda: resin
+smaska: chew
+uppsikt: supervision, control; tillsyn
+tillsyn: supervision, oversight; uppsikt, övervakning
+flitig: diligent; arbetsam, ihärdig
+tät: close, thick
+brant: steep
+stig: path
+gå vilse: get lost
+klippa: cliff
+ta en dopp: take a dip
+göra upp: think of, come up with, create/agree; tänka ut, skapa
+uppgörelse: argument, fight/arrangement, agreement
+spillning: droppings
+byig: gusty
+(en) ål: ell
+trofast: faithful, loyal; trogen, lojal
+dräktig: pregnant with calf
+(en) jäst: yeast, ferment
+överdriva: exaggerate
+spela in: record
+korkad: stupid, brainless
+emellertid: however; dock, ändå
+till en början: initially, to begin with
+snopen: baffled, surprised
+emellanåt: occasionally; vid somliga till­fällen, i­bland
+minsann: surely, indeed; sannerligen, förvisso
+kors och tvärs: left and right, in all directions
+(en) näbb: beak
+utforska: explore
+(ett) intryck: impression
+(en) skörd: harvest
+(en) korp: raven
+fruktsamhet: fertility
+fruktbarhet: fruitfulness
+(en) vidskepelse: superstition; skrock, vantro
+förhållandevis: relatively; jämförelsevis, tämligen
+inneha: own, possess; äga, besitta
+avläggare: offshoot
+fullgöra: fulfill, carry out, execute; utföra, uppfylla
+slamra: rattle, bang; skramla, dunka
+skramla: rattle, clatter, clank
+dunka: pound, thump; banka
+frälst: convert, believer; om­vänd, troende
+väja för: turn away from, make way for; vika undan
