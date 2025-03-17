@@ -297,6 +297,9 @@ ljum: luke warm
 oåterkallelig: irrevocable
 luder: whore
 slinka: slip, slide; kila, smita
+kila: scurry, scamper
+smita: sneak away/crowd
+smita åt: fit tight
 sprudlande: exuberant
 skymta: (catch a) glimpse
 skönja: discern; urskilja
@@ -382,7 +385,7 @@ nämnare: denominator
 (ett) övergrepp: abuse
 frammana: conjure up, call forth, evoke
 kisa: squint
-pösande: inflated
+pösa: bloat, swell; svälla
 förställa: disguise
 efterhängsen: persistent; ihållande
 självförvållad: self-inflicted
@@ -1179,7 +1182,8 @@ framgent: henceforth, in or for the future, forward
 överskådlig framtid: foreseeable future
 fjärd: bay; vik
 remsa: strip, tape, ribbon
-utstående: protruding
+utstående: protruding; utskjutande
+utskjutande: protruding, sticking out
 oändlighet: infinity
 förmodan: presumption
 upptuktelse: chastisement, severe punishment; tillrättavisning
@@ -1751,3 +1755,18 @@ målbrott: voice break
 förhänge: curtain, drapery
 tyna: fade, languish; försvagas, bli kraftlös
 slita upp: rip open, tear up
+sövning: anesthesia
+anvisning: instruction, direction; instruktion
+härbärge: hostel
+ovidkommande: irrelevant
+ålderdom: old age, declining years
+versal: capital letter
+basunera ut: announce loudly, publicly, broadcast
+överklaga: appeal
+angå: concern, pertain; beröra
+beröra: touch/deal with, comment on/affect; vidröra/behandla, kommentera/påverka
+vidröra: touch; ta på
+ta på: touch; röra
+blända: dazzle, blind
+haka upp sig: get stuck, get caught
+se sig för: look out, be careful; vara upp­märksam och försiktig
