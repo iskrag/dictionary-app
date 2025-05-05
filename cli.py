@@ -1,7 +1,5 @@
 import functions as func
 
-"""A little dictionary to help improve my Swedish vocabulary."""
-
 file = 'Svenska_ordbok.txt'
 # file = 'test.txt'
 
