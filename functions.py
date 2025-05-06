@@ -32,8 +32,8 @@ def split_guess(guess):
 def check_translation_or_synonym(d, key, word, syn, counter):
     """Check if the guess matches any translation or synonym."""
     answers = [meaning.strip() for meaning in
-               re.split(r', |/', d[key][syn].strip())]
-    if word in answers:
+               re.split(r',\s*|/', d[key][syn].strip())]
+    if word.lower() in [a.lower() for a in answers]:
         print('CORRECT!')
         counter += 1
         # Show full answer if there are multiple (comma or slash separated)
