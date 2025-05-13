@@ -33,38 +33,43 @@ def check_translation_or_synonym(d, key, word, syn, counter):
     """Check if the guess matches any translation or synonym."""
     answers = [meaning.strip() for meaning in
                re.split(r',\s*|/', d[key][syn].strip())]
-    if word.lower() in [a.lower() for a in answers]:
-        print('CORRECT!')
+    result = {}
+    if word in answers:
+        result['status'] = 'correct'
         counter += 1
-        # Show full answer if there are multiple (comma or slash separated)
         if '/' in d[key][syn]:
-            print('The full answer is:')
-            split_meanings(d[key][syn].upper())
+            result['full_answer'] = [m.strip() for m in
+                                     d[key][syn].upper().split('/')]
         elif ',' in d[key][syn]:
-            print('The full answer is:', d[key][syn].upper())
+            result['full_answer'] = [d[key][syn].upper()]
     else:
-        print('INCORRECT!')  # Removed "No valid answer given."
+        result['status'] = 'incorrect'
         if '/' in d[key][syn]:
-            print('The correct answer is:')
-            split_meanings(d[key][syn].upper())
+            result['full_answer'] = [m.strip() for m in
+                                     d[key][syn].upper().split('/')]
         else:
-            print('The correct answer is:', d[key][syn].upper())
-    return counter
+            result['full_answer'] = [d[key][syn].upper()]
+    result['counter'] = counter
+    return result
 
 
 def check_guess(guess, d, key, syn=0):
     """Check if a guess is correct for translation or synonym."""
     guesses = split_guess(guess)
     if not guesses:
-        print('INCORRECT! No valid answer given.')
-        print('The correct answer is:', d[key][syn].upper())
-        return 0
+        return {
+            'status': 'invalid',
+            'message': 'No valid answer given.',
+            'full_answer': [d[key][syn].upper()],
+            'counter': 0
+        }
     counter = 0
     for word in guesses:
-        counter = check_translation_or_synonym(d, key, word, syn, counter)
-        if counter > 0:
-            break  # Stop after first correct guess
-    return counter
+        result = check_translation_or_synonym(d, key, word, syn, counter)
+        if result['status'] == 'correct':
+            return result
+    # If none correct, return last result (which will be incorrect)
+    return result
 
 
 def process_dict(dict_file):
