@@ -119,7 +119,7 @@ blotta: expose, uncover; svag, o­försvarad punkt
 blottare: exhibitionist, flasher
 (en) skyffel: shovel
 nedbruten: uppriven; mentally broken
-(en) flytväst: lifejacket
+(en) flytväst: lifejacket, safety vest
 frånvarande: absent, distant
 hycklare: hypocrite
 tukta: chastise, punish
@@ -166,7 +166,7 @@ ombonad: snug, cozy; välordnad, trivsam
 rännsten: gutter
 torftig: meagre, simple
 oräknelig: innumerable, countless
-otalig: countless
+otalig: countless, uncountable, innumerable; oräknelig, tallös
 gudomlig: divine
 nyckfull: whimsical, capricious; erratic
 sträv: rough, coarse/hard, harsh; grov, ojämn/kärv
@@ -208,7 +208,7 @@ fastslå: state, establish; ställa upp
 ställa upp: state, establish/participate/stand up (for)
 erhålla: obtain; få ut, skaffa
 hyfsad: decent; ganska bra
-begriplig: understandable
+begripa: comprehend, grasp; förstå
 tänkbar: conceivable
 hejdlös: rampant, wild; obegränsad
 flink: nimble, quick
@@ -285,7 +285,7 @@ gola(re): snitch
 treva: fumble, grabble; famla
 tinning: temple
 förlägga: place, misplace/publish
-olovlig: illegal; olaglig
+olovlig: unlawful, illegal; olaglig
 avlyssning: eavesdropping
 förmaning: admonition, warning
 övermanna: overpower
@@ -591,7 +591,7 @@ på picka­lurven: drunk; berusad
 så när som på: apart from, except for, save
 utöver: apart from, besides
 nödbedd: difficult to convince
-bemöda sig: endeavour, make an effort; anstränga sig
+bemöda sig: endeavour, make an effort, exert oneself; anstränga sig
 inte så pjåkig: not bad, quite good
 avlösa: relieve, replace; ersätta, efter­träda
 ideligen: continually; oavbrutet
@@ -1111,7 +1111,7 @@ påbrå: stock, strain, descent, ancestry; arvsanslag, ursprung
 mullvad: mole
 anskaffa: procure, obtain
 befordra: promote/convey/transport, ship
-röja: reveal, betray; förråda, avslöja
+röja: reveal, betray/clean out, clear a path; förråda, avslöja/städa, hugga, gallra
 fira sig ned: abseil
 idel: sheer, mere, pure; uteslutande, enbart
 vanföreställning: delusion, wrong idea
@@ -1484,7 +1484,8 @@ motvikt: counterbalance, counterweight
 anförtro: confide
 förtrolig: confidential, intimate, close
 glo: stare
-sno: twist; vrida
+sno: twist, twirl/steal; snurra, vrida/stjäla
+snurra: spin, twirl
 utantill: by heart
 påfågel: peacock
 förtal: slander
@@ -1970,3 +1971,5 @@ gå åt: require, consume/die, perish; förbrukas, erfordras/omkomma, stryka med
 stryka med: die, bite the dust, perish; gå under, omkomma
 självsvåld: arrogance, haughtiness
 okynne: mischief
+skära sig: fall out, clash
+sätta sin sista potatis: be done for
