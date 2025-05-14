@@ -64,6 +64,7 @@ kluven: split, forked
 gira: yaw, swerve, veer
 förkunna: proclaim, declare
 (en) reträtt: retreat; återtåg
+återtåg:
 (en) rekyl: recoil
 begynnelse: initial
 gynna: favour, promote
@@ -115,7 +116,7 @@ sakkunnigutlåtande: expert opinion
 slående: striking
 glåmig: wan, pasty
 (ett) svalg: throat, chasm, abyss
-blotta: expose, uncover; svag, o­försvarad punkt
+blotta: bare, expose, uncover; göra synlig
 blottare: exhibitionist, flasher
 (en) skyffel: shovel
 nedbruten: uppriven; mentally broken
@@ -180,10 +181,10 @@ varaktig: lasting, durable
 medtagen: exhausted; utmattad
 genskjuta: overtake, intercept
 förenlig: compatible
-flott: classy; afloat; melted fat
+flott: classy/afloat/melted fat
 behändig: handy, useful
 dyna: cushion
-genklang: reverberation, echo; reply, response, sympathy
+genklang: reverberation, echo/reply, response/sympathy
 ynklig: pitiful; ömklig
 omtumlad: dizzy; yr
 avföring: faeces, defecation

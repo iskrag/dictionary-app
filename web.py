@@ -18,6 +18,8 @@ if 'synonym_submitted' not in st.session_state:
     st.session_state['synonym_submitted'] = False
 if 'show_answer' not in st.session_state:
     st.session_state['show_answer'] = False
+if 'show_synonym_answer' not in st.session_state:
+    st.session_state['show_synonym_answer'] = False
 if 'reset_needed' not in st.session_state:
     st.session_state['reset_needed'] = False
 if 'eng_guess' not in st.session_state:
@@ -31,6 +33,7 @@ if st.session_state['reset_needed']:
     st.session_state['translation_submitted'] = False
     st.session_state['synonym_submitted'] = False
     st.session_state['show_answer'] = False
+    st.session_state['show_synonym_answer'] = False
     st.session_state['reset_needed'] = False
     st.session_state['eng_guess'] = ""
     st.session_state['syn_guess'] = ""
@@ -100,12 +103,18 @@ if show_synonym:
         syn_guess = st.text_input(
             "Enter synonym:",
             key="syn_guess",
-            disabled=st.session_state['synonym_submitted']
+            disabled=st.session_state['synonym_submitted'] or st.session_state['show_synonym_answer']
         )
         submitted_synonym = st.form_submit_button(
             "Submit Synonym",
-            disabled=st.session_state['synonym_submitted']
+            disabled=st.session_state['synonym_submitted'] or st.session_state['show_synonym_answer']
         )
+
+    # Show Synonym Answer button (only enabled if not already submitted or shown)
+    show_synonym_answer_btn = st.button(
+        "Show Synonym Answer",
+        disabled=st.session_state['synonym_submitted'] or st.session_state['show_synonym_answer']
+    )
 
     if submitted_synonym and not st.session_state['synonym_submitted']:
         synonym_result = func.check_guess(syn_guess, words_dict, random_word, syn=1)
@@ -120,6 +129,12 @@ if show_synonym:
         elif synonym_result['status'] == 'incorrect':
             st.error("INCORRECT!")
             display_answer("The correct answer is:", synonym_result)
+
+    # Handle Show Synonym Answer button
+    if show_synonym_answer_btn and not st.session_state['show_synonym_answer']:
+        st.session_state['show_synonym_answer'] = True
+        synonym_result = func.check_guess("", words_dict, random_word, syn=1)
+        display_answer("The correct synonym is:", synonym_result)
 
 # --- Show Answer button logic (shows both translation and synonym) ---
 if show_answer_btn and not st.session_state['show_answer']:
