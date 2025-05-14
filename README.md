@@ -14,9 +14,9 @@ For now, it only works to translate from
 Swedish into English. I have added synonyms
 in certain cases to help build better
 connections/mental picture between the 
-words. Those can be guessed to wherever
+words. Those can be guessed wherever
 possible.
-You can use the program either as a cli, or
+The program can be used either as a cli, or
 as a streamlit app.
 
 # What I hope to add
@@ -30,4 +30,4 @@ which they are used correctly.
 the user coming up with sentences and then 
 checking if they are correct using LLMs.
 - Could add points for each correct guess
-just make it more like a game.
+just to make it more like a game.
