@@ -833,6 +833,7 @@ endräkt: unity, unanimity, harmony; enighet, sämja
 betäcking: cover, shelter
 utföra: perform, execute
 överträffa: surpass, exceed, outdo; bräcka
+bräcka: outdo/crack, breach, break; överträffa/bryta, knäcka, krossa
 hurtig: brisk, perky, energetic, spirited; käck, rask
 vörda: revere
 beträffa: concern, regard
