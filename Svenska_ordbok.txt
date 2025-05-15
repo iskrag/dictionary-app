@@ -78,7 +78,7 @@ subventionera: subsidise
 oöverstiglig: insurmountable
 vanvördig: irreverent, disrespectful
 snuskig: filthy, nasty; obscene
-försumma: neglect
+försumma: neglect; eftersätta
 bårhus: morgue
 medbrottsling: accomplice
 trångboddhet: overcrowding
@@ -335,7 +335,8 @@ omvårdnad: nursing care
 snava: stumble, trip; snubbla
 fryntlig: jovial; godmodig, vänlig
 ila: hasten, hurry; skynda
-vingla: wobble, sway
+vingla: wobble, sway; vackla
+vackla: falter
 upprymd: merry, excited; glad, munter
 munter: cheerful, merry
 sagoaktig: fairytalelike
@@ -640,7 +641,7 @@ avsats: ledge
 (en) tillstymmelse: sign, indication, flicker, shred
 på smällen: pregnant
 ta reda på: check, make sure
-ringa in: define carefully
+ringa in: narrow down, carefully define
 gängse: prevalent
 tilltäptning: occlusion, obstruction
 strypa: strangle
@@ -1192,7 +1193,7 @@ surra sig vid masten: getting ready for hard times and planning to stick around
 utradera: wipe out; förinta
 till syvende och sist: at the end of the day
 halvledare: semiconductor
-framgent: henceforth, in or for the future, forward
+framgent: henceforth, in the future, forward
 överskådlig: comprehensible, clear; överblickbar
 överskådlig framtid: foreseeable future
 fjärd: bay; vik
@@ -1261,7 +1262,8 @@ utryckning: emergency callout/discharge from active service
 trassla: make a fuss; krångla
 krångla: bitch, argue, give trouble; vålla besvär, trassla
 erinra: remind; påminna
-girighet: greed; snikenhet
+girig: greedy; sniken
+sniken: greedy; girig
 oemotståndlig: irresistible, overpowering
 skymning: dusk
 gryning: dawn
@@ -1275,7 +1277,7 @@ anhängare: supporter, follower
 struntprat: nonsense
 dvala: dormancy, hibernation
 besegra: defeat, beat
-bedröva: grieve, sadden: göra ledsen, förtvivla
+bedröva: grieve, sadden; göra ledsen, förtvivla
 förtvivlad: desperate; desperat, hopplös
 (en) häpnad: amazement
 (en) örfil: cheek slap
@@ -1288,7 +1290,7 @@ underlätta: facilitate, ease
 klentrogen: sceptical
 snor: snot
 oklanderlig: impeccable, immaculate, faultless; felfri
-stökig: messy, untidy/troublesome, loud; o­städad; besvärlig, bråkig
+stökig: messy, untidy/troublesome, loud; o­städad/besvärlig, bråkig
 hasa: slither, shuffle; glida, släpa
 släpa: drag, tow
 fästa: attach, fasten; sätta fast
@@ -1975,3 +1977,14 @@ självsvåld: arrogance, haughtiness
 okynne: mischief
 skära sig: fall out, clash
 sätta sin sista potatis: be done for
+gnabbas: bicker; kivas
+kivas: squabble; smågräla
+undfallande: compliant, yielding; eftergiven, foglig, medgörlig
+eftergiven: lenient, permissive, indulgent
+rycka ut: be released from military service/race out, head out
+(en) köl: keel
+förkroppsliga: embody, personify
+eftersätta: neglect; försumma
+härdsmälta: meltdown
+regi: direction, stage management/administration
+roffa åt sig: grab
