@@ -126,3 +126,35 @@ if show_synonym:
     if submitted_synonym and not st.session_state['synonym_submitted']:
         synonym_result = func.check_guess(syn_guess, words_dict, random_word, syn=1)
         st.session_state['synonym_submitted'] = True
+
+        if synonym_result['status'] == 'invalid':
+            st.error("INCORRECT! No valid answer given.")
+            display_answer("The correct answer is:", synonym_result)
+        elif synonym_result['status'] == 'correct':
+            st.success("CORRECT!")
+            display_answer("The full answer is:", synonym_result)
+        elif synonym_result['status'] == 'incorrect':
+            st.error("INCORRECT!")
+            display_answer("The correct answer is:", synonym_result)
+
+    # Handle Show Synonym Answer button
+    if show_synonym_answer_btn and not st.session_state['show_synonym_answer']:
+        st.session_state['show_synonym_answer'] = True
+        synonym_result = func.check_guess("", words_dict, random_word, syn=1)
+        display_answer("The correct synonym is:", synonym_result)
+
+# --- Show Answer button logic (shows both translation and synonym) ---
+if show_answer_btn and not st.session_state['show_answer']:
+    st.session_state['show_answer'] = True
+    # Show translation answer
+    translation_result = func.check_guess("", words_dict, random_word, syn=0)
+    display_answer("The correct translation is:", translation_result)
+    # Show synonym answer if exists
+    if len(words_dict[random_word]) > 1:
+        synonym_result = func.check_guess("", words_dict, random_word, syn=1)
+        display_answer("The correct synonym is:", synonym_result)
+
+# --- Next Word button at the bottom ---
+if st.button("Next Word"):
+    st.session_state['reset_needed'] = True
+    st.rerun()
