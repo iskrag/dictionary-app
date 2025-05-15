@@ -30,25 +30,33 @@ def split_guess(guess):
 
 
 def check_translation_or_synonym(d, key, word, syn, counter):
-    """Check if the guess matches any translation or synonym."""
+    """Check if the guess matches any translation or synonym (case-insensitive)."""
+    # Split answers and normalize to lowercase for comparison
     answers = [meaning.strip() for meaning in
                re.split(r',\s*|/', d[key][syn].strip())]
+    normalized_answers = [ans.casefold() for ans in answers]
+    normalized_guess = word.strip().casefold()
+
     result = {}
-    if word in answers:
+    if normalized_guess in normalized_answers:
         result['status'] = 'correct'
         counter += 1
+        # Preserve original casing for display
         if '/' in d[key][syn]:
-            result['full_answer'] = [m.strip() for m in
-                                     d[key][syn].upper().split('/')]
+            result['full_answer'] = [m.strip().upper() for m in
+                                     d[key][syn].split('/')]
         elif ',' in d[key][syn]:
+            result['full_answer'] = [d[key][syn].upper()]
+        else:
             result['full_answer'] = [d[key][syn].upper()]
     else:
         result['status'] = 'incorrect'
         if '/' in d[key][syn]:
-            result['full_answer'] = [m.strip() for m in
-                                     d[key][syn].upper().split('/')]
+            result['full_answer'] = [m.strip().upper() for m in
+                                     d[key][syn].split('/')]
         else:
             result['full_answer'] = [d[key][syn].upper()]
+
     result['counter'] = counter
     return result
 
