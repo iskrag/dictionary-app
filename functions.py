@@ -1,4 +1,5 @@
 import re
+import difflib
 import unicodedata
 import random
 
@@ -29,22 +30,21 @@ def split_guess(guess):
     return [word.strip() for word in re.split(r',|;', guess.strip()) if word.strip()]
 
 
-def check_translation_or_synonym(d, key, word, syn, counter):
-    """Check if the guess matches any translation or synonym (case-insensitive)."""
-    # Split answers and normalize to lowercase for comparison
-    answers = [meaning.strip() for meaning in
-               re.split(r',\s*|/', d[key][syn].strip())]
+def check_translation_or_synonym(d, key, word, syn, counter, threshold=0.75):
+    """Check if the guess matches any translation or synonym (case-insensitive, with fuzzy matching)."""
+    answers = [meaning.strip() for meaning in re.split(r',\s*|/', d[key][syn].strip())]
     normalized_answers = [ans.casefold() for ans in answers]
     normalized_guess = word.strip().casefold()
 
+    # Use difflib for fuzzy matching
+    close_matches = difflib.get_close_matches(normalized_guess, normalized_answers, n=1, cutoff=threshold)
+
     result = {}
-    if normalized_guess in normalized_answers:
+    if normalized_guess in normalized_answers or close_matches:
         result['status'] = 'correct'
         counter += 1
-        # Preserve original casing for display
         if '/' in d[key][syn]:
-            result['full_answer'] = [m.strip().upper() for m in
-                                     d[key][syn].split('/')]
+            result['full_answer'] = [m.strip().upper() for m in d[key][syn].split('/')]
         elif ',' in d[key][syn]:
             result['full_answer'] = [d[key][syn].upper()]
         else:
@@ -52,11 +52,9 @@ def check_translation_or_synonym(d, key, word, syn, counter):
     else:
         result['status'] = 'incorrect'
         if '/' in d[key][syn]:
-            result['full_answer'] = [m.strip().upper() for m in
-                                     d[key][syn].split('/')]
+            result['full_answer'] = [m.strip().upper() for m in d[key][syn].split('/')]
         else:
             result['full_answer'] = [d[key][syn].upper()]
-
     result['counter'] = counter
     return result
 
@@ -72,6 +70,11 @@ def check_guess(guess, d, key, syn=0):
             'counter': 0
         }
     counter = 0
+    result = {
+        'status': 'incorrect',
+        'full_answer': [d[key][syn].upper()],
+        'counter': counter
+    }
     for word in guesses:
         result = check_translation_or_synonym(d, key, word, syn, counter)
         if result['status'] == 'correct':
